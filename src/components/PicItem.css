@@ -1,0 +1,10 @@
+.pic-item img{
+    display:block;
+    width: 100%;
+    height:80%;
+}
+
+.pic-item {
+  font-style: oblique;
+  text-align:center;
+}
